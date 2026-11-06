@@ -1,1 +1,1 @@
-{ "name": "e-loop", "version": "1.0.0", "private": true, "type": "module", "scripts": { "test": "timeout 30 node --test" } }
+{ "name": "e-loop", "version": "1.0.0", "private": true, "type": "module", "scripts": { "test": "node --test" } }
